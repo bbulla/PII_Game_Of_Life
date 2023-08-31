@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/test/LibraryTests/libraryTests.csproj": {}
+  },
+  "projects": {
+    "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/src/Library/Library.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/src/Library/Library.csproj",
+        "projectName": "Library",
+        "projectPath": "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/src/Library/Library.csproj",
+        "packagesPath": "/Users/bbulla/.nuget/packages/",
+        "outputPath": "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/src/Library/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bbulla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/test/LibraryTests/libraryTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/test/LibraryTests/libraryTests.csproj",
+        "projectName": "libraryTests",
+        "projectPath": "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/test/LibraryTests/libraryTests.csproj",
+        "packagesPath": "/Users/bbulla/.nuget/packages/",
+        "outputPath": "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/test/LibraryTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/bbulla/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/src/Library/Library.csproj": {
+                "projectPath": "/Users/bbulla/Library/CloudStorage/OneDrive-UniversidadCatólicadelUruguay/Programacion_2/De_todo/Practica/src/Library/Library.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.4.2, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
